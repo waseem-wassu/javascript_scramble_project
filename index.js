@@ -11,7 +11,8 @@ let play = false;
 let newWords = "";
 let randomWords = "";
 
-let words = ["javascript","java","python","google","amazon","apple","orange","papaya","pineapple","watermelon","cricket","football","facebook"];
+let words = ["javascript","java","python","google","amazon","apple","orange","papaya","pineapple","watermelon","cricket",
+"football","facebook","waseem","idrees","nayeem","sameer","afridi","salman"];
 
 const createNewWords = () => {
     // console.log(words[0]);
